@@ -1,16 +1,27 @@
-### Hi there 👋
+# ¡Hola, soy Franco Reyes! 👋
 
-<!--
-**frankiwi6x6/frankiwi6x6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería en Informática
 
-Here are some ideas to get you started:
+¡Bienvenido a mi espacio en GitHub! Soy un apasionado de la informática con un amor especial por el desarrollo de aplicaciones que impacten positivamente en la vida de las personas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Enfoque Actual 💡
+
+🚀 Actualmente, estoy inmerso en un proyecto de desarrollo de una aplicación que busca romper la barrera comunicativa entre personas sordas y oyentes.
+
+## Mis Habilidades y Pasiones ✨
+
+- 👨‍💻 Experiencia en desarrollo web y móvil.
+- 🔍 Apasionado por explorar la aplicación de la inteligencia artificial uso cotidiano de la comunicación.
+- 🛠️ Habilidades sólidas en creación de API's y desarrollo Frontend.
+
+## Exploración Constante 🌐
+
+- 📚 Siempre buscando aprender nuevas tecnologías y enfoques.
+- 🌱 Comprometido con el crecimiento personal y profesional en el mundo de la informática.
+- 
+
+## Conéctate Conmigo 🤝
+
+¡Me encantaría compartir experiencias y conocimientos contigo! Encuéntrame en [[LinkedIn]](https://www.linkedin.com/in/franco-reyes-jimenez/).
+
+¡Gracias por visitar mi perfil!
